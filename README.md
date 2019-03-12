@@ -1,2 +1,1 @@
-# Responsive-Portfolio
-Homwork
+Early homework assignment, ignore.
